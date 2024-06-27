@@ -1,7 +1,7 @@
 # Sub_Directory_finder
 
 
-This is a Web Crawler using this you will able to find all the sub-domain of anywebsite
+This is a Sub Directory Finder using this you will able to find all the sub-domain of anywebsite
 
 you can run this code in linux & windows or on any OS
 
