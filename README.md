@@ -1,4 +1,4 @@
-# Sub_domain_finder
+# Sub_Directory_finder
 
 
 This is a Web Crawler using this you will able to find all the sub-domain of anywebsite
